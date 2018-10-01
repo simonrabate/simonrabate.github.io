@@ -173,6 +173,10 @@ kramdown:
 collections:
   teaching:
     output: true
+    categ1:
+      output: true
+    categ2:
+      output: true
     permalink: /:collection/:path/
   publications:
     output: true
