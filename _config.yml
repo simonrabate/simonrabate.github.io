@@ -187,7 +187,6 @@ collections:
 
 # Defaults
 defaults:
-  author_profile: false
   # _posts
   - scope:
       path: ""
