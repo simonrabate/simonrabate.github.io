@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Simon Rabaté"
 title_separator          : "-"
 name                     : &name "Simon Rabaté"
 description              : &description "personal description"
