@@ -210,7 +210,8 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: wide
+      layout: single
+      classes: wide
       author_profile: false
       share: false
       comments: false
