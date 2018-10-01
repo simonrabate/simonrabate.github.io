@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[CV in English](http://simonrabate.github.io/files/cv_en.pdf)
+[Download CV](http://simonrabate.github.io/files/cv_en.pdf)
 
 
 
-[CV en Français](http://simonrabate.github.io/files/cv_fr.pdf)
