@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Simon Rabaté website"
+title: "Simon Rabaté"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Coucou chou
-======
+### Bio
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+IPP
+
+
+
+### Contact 
+
+s.rabate@cpb.nl
+simon.rabate@ipp.eu
+
+
+
