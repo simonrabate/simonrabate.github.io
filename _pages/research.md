@@ -5,26 +5,67 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
+
+### Under review
+
+- *MRO*,  
+[*Revise and resubmit at the Journal of Public Economics*]
+
+    -  
+    ```
+    Blablbl
+    ```
+    - Working paper available [here](http://simonrabate.github.io/files/cv_en.pdf)
 
 
+### Working papers
 
-## Under review
+- *Unemployment*,  
+NBER,   
+with Tilbe Atav and Egbert Jongen
+[Draft available on request]
 
-## Early stage research  
+___
+
+- *NBER*,  
+NBER,   
+with Antoine Bozio, Maxime Tô and Julie Tréguier  
+[Draft available on request]
 
 
-#### Modeling earning trajectories of Public servents using public salary schedule
-with Mahdi Ben Jelloul and Lise Degalle. 
+___
 
-#### Machine learning and microsimulation: modeling labor market transitions and earning trajectories
-with Quiterie Duco, Sophie Maillard and Maxime To.
+- *Unemployment*,  
+NBER,   
+with Julie Rochut
+[Draft available on request]
+___
 
 
-#### Incentives or framing: what matters for retirement decisions
+### Early stage research
 
-#### From work to retirement: the effect of the removal of the earning test for pensionners"
- with Agathe Dardier (Cnav). 
- 
-#### From work to retirement: the impact of the unemployment benefit system"
-with Julie Rochut (Cnav)
+- *Tax evasion*,  
+NBER,   
+with Christophe Dorin, Anthony Marino and Laurent Soulat
+___
+
+- *AA*,  
+NBER,   
+with Christophe Dorin, Anthony Marino and Laurent Soulat
+___
+
+- *CNRACL*,  
+NBER,   
+with Christophe Dorin, Anthony Marino and Laurent Soulat
+___
+
+- *Globalisation 1*,  
+NBER,   
+with Christophe Dorin, Anthony Marino and Laurent Soulat
+___
+
+- *Globalisation 2*,  
+NBER,   
+with Christophe Dorin, Anthony Marino and Laurent Soulat
+___
+
