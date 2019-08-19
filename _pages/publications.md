@@ -11,21 +11,21 @@ layout: archive
 
 - *Employment and substitution effects of raising the statutory retirement age in France*  
 with Julie Rochut  
-Journal of Pension Economics and Finance (2019): 1-16
+Journal of Pension Economics and Finance (2019): 1-16  
 [Link](https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/employment-and-substitution-effects-of-raising-the-statutory-retirement-age-in-france/4286104DFC75D283D1652996120C2B1C)
 
 ___
 
 - *Quelles options pour réduire la dépendance à la croissance du système de retraite français?.*,  
 with Didier Blanchet and Antoine Bozio 
-Revue économique 67.4 (2016): 879-911.
+Revue économique 67.4 (2016): 879-911.  
 [Link](https://www.cairn.info/revue-economique-2016-4-page-879.htm)
 
 ___
 
 - *Durée passée en carrière et durée de vie en retraite: quel partage des gains d’espérance de vie?*,  
 with Patrick Aubert
-Economie et statistique 474.1 (2014): 69-95.
+Economie et statistique 474.1 (2014): 69-95.  
 [Link](https://www.insee.fr/en/statistiques/1377631?sommaire=1377642)
 
 ___
