@@ -9,24 +9,24 @@ layout: archive
 ## Peer-reviewed publications
 
 
-- *Employment and substitution effects of raising the statutory retirement age in France*  
-with Julie Rochut  
-Journal of Pension Economics and Finance (2019): 1-16  
-[Link](https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/employment-and-substitution-effects-of-raising-the-statutory-retirement-age-in-france/4286104DFC75D283D1652996120C2B1C)
+- *Employment and substitution effects of raising the statutory retirement age in France*,  
+with Julie Rochut,  
+Journal of Pension Economics and Finance (2019): 1-16.  
+[**Link**](https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/employment-and-substitution-effects-of-raising-the-statutory-retirement-age-in-france/4286104DFC75D283D1652996120C2B1C)
 
 ___
 
-- *Quelles options pour réduire la dépendance à la croissance du système de retraite français?.*,  
-with Didier Blanchet and Antoine Bozio 
+- *Quelles options pour réduire la dépendance à la croissance du système de retraite français?*,  
+with Didier Blanchet and Antoine Bozio,  
 Revue économique 67.4 (2016): 879-911.  
-[Link](https://www.cairn.info/revue-economique-2016-4-page-879.htm)
+[**Link**](https://www.cairn.info/revue-economique-2016-4-page-879.htm)
 
 ___
 
 - *Durée passée en carrière et durée de vie en retraite: quel partage des gains d’espérance de vie?*,  
-with Patrick Aubert
+with Patrick Aubert  
 Economie et statistique 474.1 (2014): 69-95.  
-[Link](https://www.insee.fr/en/statistiques/1377631?sommaire=1377642)
+[**Link**](https://www.insee.fr/en/statistiques/1377631?sommaire=1377642)
 
 ___
 
@@ -43,21 +43,21 @@ ___
 - *Quelles règles de pilotage pour un système de retraite à rendement défini ?*,  
 with Antoine Bozio, Audrey Rain and Maxime Tô    
 Rapport IPP n°23 (2019)
-[Link](https://www.ipp.eu/wp-content/uploads/2019/06/regles-pilotage-retraite-points-ipp-juin-2019.pdf)
+[**Link**](https://www.ipp.eu/wp-content/uploads/2019/06/regles-pilotage-retraite-points-ipp-juin-2019.pdf)
 
 ___
 
 - *Les comportements de départs en retraite dans la fonction publique d’État*,  
 with Didier Blanchet and Antoine Bozio,  
 Rapport IPP n°9 (2015)
-[Link](https://www.ipp.eu/wp-content/uploads/2015/06/depart-retraite-fct-publique-etat-rapport-IPP-juin2015.pdf)
+[**Link**](https://www.ipp.eu/wp-content/uploads/2015/06/depart-retraite-fct-publique-etat-rapport-IPP-juin2015.pdf)
 
 ___
 
 - *Réformer le système de retraite: les droits familiaux et conjugaux*,  
 with Carole Bonnet, Antoine Bozio and Camille Landais,  
 Rapport IPP n°2 (2013)
-[Link](https://www.ipp.eu/wp-content/uploads/2012/08/retraites-droits-conjugaux-familiaux-rapport-IPP-juin2013.pdf)
+[**Link**](https://www.ipp.eu/wp-content/uploads/2012/08/retraites-droits-conjugaux-familiaux-rapport-IPP-juin2013.pdf)
 
 ___
 
@@ -65,7 +65,38 @@ ___
 ### Scientific dissemination 
 
 
+- *Pension reform: Towards an overhaul of family rights?*,  
+with Carole Bonnet, Antoine Bozio, Camille Landais and Marianne Tenand  
+IPP Policy Brief n°8 (2013)
+[**Link**](http://www.ipp.eu/wp-content/uploads/2013/10/n8-IPP-policy-brief-october2013.pdf)
 
+___
+
+- *Faut-il un âge de référence dans un système de retraite en points ?*,  
+with Antoine Bozio, Audrey Rain and Maxime Tô    
+IPP Policy Brief n°42 (2019)
+[**Link**](https://www.ipp.eu/wp-content/uploads/2019/06/n42-notesIPP-juin2019.pdf)
+
+___
+
+- *Quel pilotage pour un système de retraite en points ?*,  
+with Antoine Bozio, Audrey Rain and Maxime Tô    
+IPP Policy Brief n°43 (2019)
+[**Link**](https://www.ipp.eu/wp-content/uploads/2019/06/n43-notesIPP-juin2019.pdf)
+
+___
+
+- *Réforme des retraites : quels effets redistributifs attendus ?*,  
+ Antoine Bozio, Chloé Lallemand, Audrey Rain and Maxime Tô  
+IPP Policy Brief n°44 (2019)
+[**Link**](https://www.ipp.eu/wp-content/uploads/2019/06/n44-notesIPP-juin2019.pdf)
+
+___
+
+- *IPP open source publication of tax and benefit schedules: Pensions*,  
+with Benjamin Belrhomari, Antoine Bozio, Sophie Cottet and Louise Paul-Delvaux.  
+April 2019 
+[**Link**](https://www.ipp.eu/baremes-ipp/regimes-de-retraites/)
 
 
 
