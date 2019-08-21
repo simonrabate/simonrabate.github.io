@@ -8,6 +8,9 @@ author_profile: true
 
 ### Under review
 
+
+___
+
 - *Can I Stay or Should I Go? Mandatory Retirement and Labor Force Participation of Older Workers*,  
 [Revise and resubmit at the Journal of Public Economics]
 
@@ -28,6 +31,8 @@ author_profile: true
 
 
 ### Working papers
+
+___
 
 - *The Effects of Increasing the Normal Retirement Age: Evidence From the Netherlands*,  
 with Tilbe Atav and Egbert Jongen
@@ -70,11 +75,10 @@ ___
 
 ### Early stage research
 
+___
+
 - *Optimal management rules for a retiring system with defined returns ?*,  
 with Antoine Bozio, Audrey Rain and Maxime Tô 
-
-- *Tax Evasion in the Netherlands: Evidence from Tax Amnesty Reforms*,  
-with Wouter Leenders, Arjan Lejour and Maarten van't Riet
 
 - *Retirement behaviour in the French private sector*,  
 with Benjamin Belrhomari, Chloé Lallemand, Lamia Kandil and Maxime Tô
@@ -82,10 +86,16 @@ with Benjamin Belrhomari, Chloé Lallemand, Lamia Kandil and Maxime Tô
 - *Dynamiques de carrière dans la fonction publique hospitalière*,  
 with Christophe Dorin, Anthony Marino and Laurent Soulat
 
+___
+
+- *Tax Evasion in the Netherlands: Evidence from Tax Amnesty Reforms*,  
+with Wouter Leenders, Arjan Lejour and Maarten van't Riet
+
 - *Globalisation and Income Inequality in the Netherlands*,  
 with Rob Euwals, Stefan Groot, Harro van Heuvelen, Gerdien Meijerink and Jan Möhlmann  
 
 - *Lost in Globalisation: Discontent in the Netherlands*,  
 with Evelien Boonstoppel, Paul Dekkers and Rob Euwals
+
 ___
 
