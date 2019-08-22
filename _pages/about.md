@@ -11,8 +11,8 @@ author_profile: yes
 
 ### Position
 
-- Economist at the Centraal Planbureau  (CPB)
-- Research affiliat at the Institut des politiques publiques (IPP) 
+- Economist at the Centraal Planbureau  (CPB) - The Hague, Netherlands. 
+- Research affiliate at the Institut des politiques publiques (IPP) - Paris, France. 
 
 
 ### Fields of interest  
