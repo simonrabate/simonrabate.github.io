@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: true
+[//]: # author_profile: true
 ---
 
 
@@ -12,7 +12,7 @@ author_profile: true
 ___
 
 - *Can I Stay or Should I Go? Mandatory Retirement and Labor Force Participation of Older Workers*,  
-[Revise and resubmit at the Journal of Public Economics]
+[Revise and resubmit at the *Journal of Public Economics*]
 
     -  **Abstract**  
     _Retirement is commonly described as a pure labor-supply decision, despite the potential 
