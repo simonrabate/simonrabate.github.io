@@ -6,28 +6,10 @@ permalink: /research/
 ---
 
 
-### Under review
+[comment]: <> ### Under review
 
 
-___
-
-- *Can I Stay or Should I Go? Mandatory Retirement and Labor Force Participation of Older Workers*,  
-[Forthcoming in the *Journal of Public Economics*]
-
-    -  **Abstract**  
-    _Retirement is commonly described as a pure labor-supply decision, despite the potential 
-    importance of the demand side. This partly reflects that the two dimensions are often difficult 
-    to disentangle. I here manage to overcome this difficulty by using  a unique natural experiment, 
-    the progressive ban on mandatory retirement in France in the 2000s.  
-    Drawing on an extensive administrative dataset, I use reform-induced  inter-industry variations in 
-    mandatory-retirement legislation, thereby  separating this factor from other retirement determinants, 
-    such as financial incentives.  I find that the demand-side determinants through mandatory retirement 
-    do affect retirement patterns: the exit rates from employment are estimated to be 10% higher when mandatory 
-    retirement is possible. This effect is mostly driven by individuals with high earnings, steep wage profiles 
-    and good health. Second, as the mandatory-retirement age coincides with the full-rate age, I reveal a 
-    previously unexamined determinant of the bunching in retirement distribution at this age. 
-    Mandatory retirement is estimated to explain 12% of the observed spike at the full rate_
-    - Working paper available [here](https://halshs.archives-ouvertes.fr/halshs-01521150/document)
+[comment]: <>___
 
 
 ### Working papers
