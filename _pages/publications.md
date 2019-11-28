@@ -8,6 +8,15 @@ layout: archive
 
 ## Peer-reviewed publications
 
+- *Can I Stay or Should I Go? Mandatory Retirement and Labor Force Participation of Older Workers*,  
+  Journal of Public Economics (Volume 180, 2019)
+
+    - [**Link to the paper**](https://www.sciencedirect.com/science/article/pii/S0047272719301392?dgcid=author)
+    
+    - [**Working paper version**](https://halshs.archives-ouvertes.fr/halshs-01521150/document)
+    
+[//]: #  - [**Code**](https://framagit.org/simrab/mro)
+
 
 - *Employment and substitution effects of raising the statutory retirement age in France*,  
 with Julie Rochut,  
