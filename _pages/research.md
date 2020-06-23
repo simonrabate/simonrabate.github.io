@@ -20,13 +20,7 @@ ___
 with Tilbe Atav and Egbert Jongen
 
     - **Abstract**  
-    We evaluate the effect of reforms in the o cial retirement age in the Nether- lands (AOW age) on the labour
-    supply and enrollment in social insurance of older workers. The AOW increased stepwise from 65 in 2013 to 65 
-    and 9 months in 2017 (end of the data period). As a result, individuals are subjected to different 
-    retirement ages depending on their month of birth. We exploit this variation between birth cohorts 
-    using a differences-in-differences approach. Using administrative data from 1999 to 2017 we  find 
-    that for the affected cohorts the employment rate increases by 16 percentage points during the additional
-    working age months. Furthermore, we find that individuals on unemployment and disability insurance remain in their state longer, but there is hardly any direct substitution towards UI and DI from employment.
+    We evaluate the effect of reforms in the social retirement age in the Netherlands (AOW age) on the labour supply and enrollment in social insurance of older workers. The AOW increased stepwise from 65 in 2013 to 65 and 9 months in 2017 (end of the data period). As a result, individuals are subjected to different retirement ages depending on their month of birth. We exploit this variation between birth cohorts using a differences-in-differences approach. Using administrative data from 1999 to 2017 we find that for the affected cohorts the employment rate increases by 16 percentage points during the additional working age months. Furthermore, we find that individuals on unemployment and disability insurance remain in their state longer, but there is hardly any direct substitution towards UI and DI from employment.
     - [Draft available on request]
 
 
