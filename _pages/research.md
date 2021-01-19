@@ -21,10 +21,22 @@ with Tilbe Atav and Egbert Jongen
 
     - **Abstract**  
     We evaluate the effect of reforms in the social retirement age in the Netherlands (AOW age) on the labour supply and enrollment in social insurance of older workers. The AOW increased stepwise from 65 in 2013 to 65 and 9 months in 2017 (end of the data period). As a result, individuals are subjected to different retirement ages depending on their month of birth. We exploit this variation between birth cohorts using a differences-in-differences approach. Using administrative data from 1999 to 2017 we find that for the affected cohorts the employment rate increases by 16 percentage points during the additional working age months. Furthermore, we find that individuals on unemployment and disability insurance remain in their state longer, but there is hardly any direct substitution towards UI and DI from employment.
-    - [Draft available on request]
+    - [Link to the working paper](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Discussion-Paper-408-The-effects-of-the-increase-in-the-retirement-age-in-the-Netherlands.pdf)
+
+___
+
+- *Tax Evasion in the Netherlands: Evidence from Tax Amnesty Reforms*,  
+with Wouter Leenders, Arjan Lejour and Maarten van't Riet
+
+
+    - **Abstract**  
+        Exploiting unique datasets covering over 28,000 tax evaders in the Netherlands, we investigatethe distribution of tax evasion and its implications for the measurement of wealth inequality.In contrast to Alstadsæter, Johannesen and Zucman (2019), the correction for offshore wealthhas only a modest effect on top wealth shares. We show that the distributional pattern of taxevasion depends on the type of tax evasion, e.g. it depends on the offshore country of choice. Weexplore a number of explanations to account for the differences in results and caution againstprojecting distributional patterns of detected tax evasion onto still undetected evasion.We also study the dynamic compliance behaviour of tax amnesty participants and documentlarge and sustained increases in reported wealth of around 60% following amnesty participation.Combined with evidence of only a modest increase in the adoption of tax avoidance strategies,this suggests that amnesty participation can lead to substantial public revenue gains.
+    - [Link to the working paper](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Discussion-Paper-417-Offshore-Tax-Evasion-and-Wealth-Inequality.pdf)
+
 
 
 ___
+
 
 - *Incentives and Labor Force Participation of Older Workers: Evidence from France*,  
 with Antoine Bozio, Maxime Tô and Julie Tréguier  
@@ -40,6 +52,8 @@ with Antoine Bozio, Maxime Tô and Julie Tréguier
     - [Draft available on request]
 
 
+
+
 ___
 
 - *Unemployment Effects of Raising the Pension Age: Evidence From French Reforms*,  
@@ -53,25 +67,22 @@ ___
 
 ___
 
-- *Optimal management rules for a retiring system with defined returns ?*,  
-with Antoine Bozio, Audrey Rain and Maxime Tô 
-
 - *Retirement behaviour in the French private sector*,  
-with Benjamin Belrhomari, Chloé Lallemand, Lamia Kandil and Maxime Tô
+with Chloé Lallemand, Lamia Kandil and Maxime Tô
 
 - *Dynamiques de carrière dans la fonction publique hospitalière*,  
 with Christophe Dorin, Anthony Marino and Laurent Soulat
 
-___
+- *The Social Determinants of Retirement*,  
+with Max Coveney and Arthur 
 
-- *Tax Evasion in the Netherlands: Evidence from Tax Amnesty Reforms*,  
-with Wouter Leenders, Arjan Lejour and Maarten van't Riet
+- *How flat is the Netherlands: Assessing the Overall Progressivity  of the Dutch Tax System*,  
+with Arjan Bruil, Jan Molhman, Wouter Leenders and Arjan Lejour
 
-- *Globalisation and Income Inequality in the Netherlands*,  
-with Rob Euwals, Stefan Groot, Harro van Heuvelen, Gerdien Meijerink and Jan Möhlmann  
+- *Survivors insurance and the Dutch Marriage Market*,
+with Julie Rochut
 
-- *Lost in Globalisation: Discontent in the Netherlands*,  
-with Evelien Boonstoppel, Paul Dekkers and Rob Euwals
-
+- *The determinants of the Child Penalty in the Netherlands*,
+with Egbert Jongen and Sara Rellstab
 ___
 
