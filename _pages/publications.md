@@ -45,7 +45,8 @@ ___
 
 - *Workers' Employment Rates and Pension Reforms in France: The Role of Implicit Labor Taxation*,  
 with Didier Blanchet, Antoine Bozio and Muriel Roger  
-Social Security Programs and Retirement around the World: Reforms and Retirement Incentives, Börsch-Supan and Coile. (forthcoming)
+Social Security Programs and Retirement around the World: Reforms and Retirement Incentives, Börsch-Supan and Coile. (2019)
+[**Link**](https://www.nber.org/books-and-chapters/social-security-programs-and-retirement-around-world-reforms-and-retirement-incentives/workers-employment-rates-and-pension-reforms-france-role-implicit-labor-taxation)
 
 ___
 
@@ -70,6 +71,20 @@ Rapport IPP n°2 (2013)
 
 ___
 
+- *Arbeidsparticipatie, Gewerkte Uren En Economische Zelfstandigheid van Vrouwen*,  
+with Yvonne Adema, Simon Rabaté, Derk Visser, Marente Vlekke, and Kees Folmer,  
+CPB Notitie (2019)
+[**Link**](https://www.ipp.eu/wp-content/uploads/2015/06/depart-retraite-fct-publique-etat-rapport-IPP-juin2015.pdf)
+
+___
+
+- *Effecten verhogen minimumloon*,  
+with Céline van Essen,   
+CPB Notitie (2020)
+[**Link**](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Notitie-Effecten-verhogen-minimumloon.pdf)
+
+___
+
 
 ### Scientific dissemination 
 
@@ -78,6 +93,12 @@ ___
 with Carole Bonnet, Antoine Bozio, Camille Landais and Marianne Tenand  
 IPP Policy Brief n°8 (2013)
 [**Link**](http://www.ipp.eu/wp-content/uploads/2013/10/n8-IPP-policy-brief-october2013.pdf)
+
+___
+- *Quelle réforme du système de retraite ? Les grands enjeux*,  
+with Antoine Bozio, Audrey Rain and Maxime Tô    
+IPP Policy Brief n°31 (2018)
+[**Link**](https://www.ipp.eu/actualites/note-ipp-n31-quelle-reforme-du-systeme-de-retraite-les-grands-enjeux/)
 
 ___
 
@@ -99,6 +120,20 @@ ___
  Antoine Bozio, Chloé Lallemand, Audrey Rain and Maxime Tô  
 IPP Policy Brief n°44 (2019)
 [**Link**](https://www.ipp.eu/wp-content/uploads/2019/06/n44-notesIPP-juin2019.pdf)
+
+___
+
+- *Belastingontduiking en vermogensongelijkheid*,  
+ Wouter Leenders, Arjan Lejour and Maarten van't Riet
+CPB Policy Brief (2020)
+[**Link**](https://www.cpb.nl/belastingontduiking-en-vermogensongelijkheid)
+
+___
+
+- *Inkomen moeders halveert bijna na komst kinderen*,  
+ Yvonne Adema and Sara Rellstab
+ESB (2020)
+[**Link**](https://esb.nu/esb/20061616/inkomen-moeders-halveert-bijna-na-komst-kinderen)
 
 ___
 
