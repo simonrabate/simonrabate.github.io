@@ -74,7 +74,7 @@ ___
 - *Arbeidsparticipatie, Gewerkte Uren En Economische Zelfstandigheid van Vrouwen*,  
 with Yvonne Adema, Simon Rabaté, Derk Visser, Marente Vlekke, and Kees Folmer,  
 CPB Notitie (2019)
-[**Link**](https://www.ipp.eu/wp-content/uploads/2015/06/depart-retraite-fct-publique-etat-rapport-IPP-juin2015.pdf)
+[**Link**](https://www.cpb.nl/sites/default/files/omnidownload/cpb-notitie-economische-zelfstandigheid-vrouwen_fin2.pdf)
 
 ___
 
