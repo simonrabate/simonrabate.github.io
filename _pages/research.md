@@ -72,13 +72,13 @@ with Max Coveney and Arthur
 - *How flat is the Netherlands: Assessing the Overall Progressivity  of the Dutch Tax System*,  
 with Arjan Bruil, Jan Molhman, Wouter Leenders and Arjan Lejour
 
-- *Survivors insurance and the Dutch Marriage Market*, 
+- *Survivors insurance and the Dutch Marriage Market*,  
 with Julie Treguier
 
 - *Unemployment Effects of Raising the Pension Age: Evidence From French Reforms*,  
 with Julie Rochut  
 
-- *The determinants of the Child Penalty in the Netherlands*, 
+- *The determinants of the Child Penalty in the Netherlands*,  
 with Egbert Jongen and Sara Rellstab
 ___
 
