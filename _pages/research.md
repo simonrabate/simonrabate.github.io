@@ -62,3 +62,34 @@ with  Arjan Bruil, Celine van Essen, Wouter Leenders, Arjan Lejour and Jan Mohlm
 This paper combines detailed administrative records on the universe of the Dutch population with national account aggregates to provide a thorough description of income inequality before and after taxation and income and in-kind transfers in the Netherlands, for the year2016.  When accounting for domestic and foreign retained earnings, income inequality before transfers stands out, as the last percentile of the income distribution earns 12% of the national income and the last decile 35%.  The tax and transfer system largely reduces income inequality:  the top 10%?s income share falls to 28%.  Inequality reduction is largely driven by benefits, that are targeted at the bottom of the distribution, and much less so by the tax system, which is rather flat overall and even largely regressive at the very top of the income distribution. 
  - [Draft available on request]
  
+ 
+ ___
+
+- *The impact of import competition and export opportunities on the Dutch labour market*,  
+with  Rob Euwals, Gerrit Hugo van Heuvelen, Gerdien Meijerink and Jan Mohlmann
+
+    - **Abstract**  
+We study the impact of rising Chinese and Eastern European import competition and export opportunities between 2001 and 2016 on the Dutch labour market. Both the participation of China in the WTO and the extension of the European Union provide an opportunity to investigate the impact of an unanticipated increase in trade on 40 Dutch COROP regions. We do not find a robust impact of the increase in trade on local employment, wages and inequality. The results do not imply that trade does not have an impact on Dutch regions, but the effects might play out in a more complicated way. Results for the Netherlands as well as other countries can be explained by the initial composition of the employment share across industries and the labour institutions.
+    - [Link to the working paper](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Discussion-Paper-426-Impact-of-import-competition-and-export-opportunities-Dutch-labour-market.pdf)
+
+___
+
+
+
+
+### Early stage research
+
+___
+
+- *Retirement behaviour in the French private sector*,  
+with Chloé Lallemand, Lamia Kandil and Maxime To
+
+- *Incentives and Labor Force Participation of Older Workers: Evidence from France*,  
+with Antoine Bozio, Maxime Tô and Julie Treguier  
+
+- *The Social Determinants of Retirement*,  
+with Max Coveney and Arthur Seilbold
+
+- *Tax optimisation in closely held firms: evidence from a dividend tax holiday*,
+with Gabriella Massenz
+
