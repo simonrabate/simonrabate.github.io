@@ -12,11 +12,7 @@ permalink: /research/
 [comment]: <>___
 
 
-___
-
 ## Under review
-
-___
 
 - *Increasing the Effective Retirement Age: Key Factors and Interaction Effects*,  
 with Tilbe Atav and Egbert Jongen,  
@@ -39,11 +35,8 @@ R&R at the *Journal of Public Economics*
     - [**Submitted version**](https://www.dropbox.com/s/msg1z03hxbpa2mj/Leendersetal2021WP.pdf?dl=0)
 
 
-___
-
 ## Working papers
 
-___
 
 - *The Child Penalty in the Netherlands and its Determinants*,  
 with Sara Rellstab 
@@ -80,14 +73,8 @@ with  Rob Euwals, Gerrit Hugo van Heuvelen, Gerdien Meijerink and Jan Mohlmann
 We study the impact of rising Chinese and Eastern European import competition and export opportunities between 2001 and 2016 on the Dutch labour market. Both the participation of China in the WTO and the extension of the European Union provide an opportunity to investigate the impact of an unanticipated increase in trade on 40 Dutch COROP regions. We do not find a robust impact of the increase in trade on local employment, wages and inequality. The results do not imply that trade does not have an impact on Dutch regions, but the effects might play out in a more complicated way. Results for the Netherlands as well as other countries can be explained by the initial composition of the employment share across industries and the labour institutions.
     - [Link to the working paper](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Discussion-Paper-426-Impact-of-import-competition-and-export-opportunities-Dutch-labour-market.pdf)
 
-___
-
-
-
 
 ## Early stage research
-
-___
 
 - *Retirement behaviour in the French private sector*,  
 with Chloé Lallemand, Lamia Kandil and Maxime To
