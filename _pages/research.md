@@ -14,7 +14,7 @@ permalink: /research/
 
 ___
 
-### Under review
+## Under review
 
 ___
 
@@ -41,7 +41,7 @@ R&R at the *Journal of Public Economics*
 
 ___
 
-### Working papers
+## Working papers
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 
 
-### Early stage research
+## Early stage research
 
 ___
 
