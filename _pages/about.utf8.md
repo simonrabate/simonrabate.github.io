@@ -10,7 +10,7 @@ author_profile: yes
 ---
 
 ### Position
-
+- Researcher at Institut national d'études démographiques (Ined) 
 - Economist at the Centraal Planbureau  (CPB) - The Hague, Netherlands. 
 - Research affiliate at the Institut des politiques publiques (IPP) - Paris, France. 
 
@@ -23,7 +23,6 @@ author_profile: yes
 
 
 ### Contact 
-
+- simon.rabate@ined.fr
 - s.rabate@cpb.nl
 - simon.rabate@ipp.eu
-
