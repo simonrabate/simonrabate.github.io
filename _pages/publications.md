@@ -6,7 +6,7 @@ layout: archive
 ---
 
 
-## Publications in international peer-reviewed journal
+## Publications in international peer-reviewed journals
 
 
 - *The Child Penalty in the Netherlands and its Determinants*,  
@@ -39,7 +39,7 @@ Journal of Pension Economics and Finance (2019): 1-16.
 [**Link**](https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/employment-and-substitution-effects-of-raising-the-statutory-retirement-age-in-france/4286104DFC75D283D1652996120C2B1C)
 
 
-## Publications in French peer-reviewed journal
+## Publications in French peer-reviewed journals
 
 - *Évaluation de la réforme des infirmiers diplômés d’État sur les dynamiques de carrière et la retraite : une approche par microsimulation*,  
 Christophe Dorin, Anthony Marino and Laurent Soulat,  
