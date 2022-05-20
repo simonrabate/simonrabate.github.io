@@ -35,16 +35,6 @@ R&R at the *Journal of Public Economics*
     - [**Submitted version**](https://www.dropbox.com/s/msg1z03hxbpa2mj/Leendersetal2021WP.pdf?dl=0)
 
 
-- *The Child Penalty in the Netherlands and its Determinants*,  
-with Sara Rellstab,  
-Accepted for publication in *De Economist*
-
-    - **Abstract**  
-        Having children can result in large earnings penalties for mothers. Using extensive administrative data from the Netherlands, we assess the magnitude and drivers of the effects of first childbirth on parents' earnings trajectories in the Netherlands. We show that mothers? earnings are 46% lower compared to their pre-birth earnings trajectory, whereas fathers? earnings are unaffected by child birth. We examine the role of two potential determinants of the unequal distribution of parents' labour market costs by gender: childcare policies and gender norms. We find that while child care availability is correlated with lower child penalty, the immediate short-term causal effect of increasing child care availability on the earnings penalty of becoming a mother is small. By taking advantage of variation in gender norms in different population groups, we show that gender norms are strongly correlated with child penalty for mothers.
-    - [Link to the working paper](https://www.cpb.nl/en/the-child-penalty-in-the-netherlands-and-its-determinants)
-
- ___
-
 - *The impact of import competition and export opportunities on the Dutch labour market*,  
 with  Rob Euwals, Gerrit Hugo van Heuvelen, Gerdien Meijerink and Jan Mohlmann,  
 R&R at *De Economist*
