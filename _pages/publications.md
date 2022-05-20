@@ -13,10 +13,9 @@ layout: archive
 with Sara Rellstab,  
 *De Economist* (Volume 170, 2022)
 
-
-    - [**Link to the paper**][(https://www.sciencedirect.com/science/article/pii/S0047272719301392?dgcid=author](https://link.springer.com/article/10.1007/s10645-022-09403-x))
-    
-    - [**Link to the working paper**]([https://halshs.archives-ouvertes.fr/halshs-01521150/document](https://www.cpb.nl/en/the-child-penalty-in-the-netherlands-and-its-determinants))
+    - [**Link to the paper**](https://link.springer.com/article/10.1007/s10645-022-09403-x)
+   
+    - [**Link to the working paper**](https://www.cpb.nl/en/the-child-penalty-in-the-netherlands-and-its-determinants)
     
 [//]: #  - [**Code**](https://framagit.org/simrab/mro)
 
@@ -28,7 +27,7 @@ with Sara Rellstab,
 
     - [**Link to the paper**](https://www.sciencedirect.com/science/article/pii/S0047272719301392?dgcid=author)
     
-    - [**Working paper version**](https://halshs.archives-ouvertes.fr/halshs-01521150/document)
+    - [**Link to the working paper**](https://halshs.archives-ouvertes.fr/halshs-01521150/document)
     
 [//]: #  - [**Code**](https://framagit.org/simrab/mro)
 
