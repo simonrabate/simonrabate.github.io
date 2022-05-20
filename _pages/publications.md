@@ -6,7 +6,22 @@ layout: archive
 ---
 
 
-## Peer-reviewed publications
+## Publications in international peer-reviewed journal
+
+
+- *The Child Penalty in the Netherlands and its Determinants*,  
+with Sara Rellstab,  
+*De Economist* (Volume 170, 2022)
+
+
+    - [**Link to the paper**][(https://www.sciencedirect.com/science/article/pii/S0047272719301392?dgcid=author](https://link.springer.com/article/10.1007/s10645-022-09403-x))
+    
+    - [**Link to the working paper**]([https://halshs.archives-ouvertes.fr/halshs-01521150/document](https://www.cpb.nl/en/the-child-penalty-in-the-netherlands-and-its-determinants))
+    
+[//]: #  - [**Code**](https://framagit.org/simrab/mro)
+
+ ___
+
 
 - *Can I Stay or Should I Go? Mandatory Retirement and Labor Force Participation of Older Workers*,  
   Journal of Public Economics (Volume 180, 2019)
@@ -23,7 +38,16 @@ with Julie Rochut,
 Journal of Pension Economics and Finance (2019): 1-16.  
 [**Link**](https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/employment-and-substitution-effects-of-raising-the-statutory-retirement-age-in-france/4286104DFC75D283D1652996120C2B1C)
 
+
+## Publications in French peer-reviewed journal
+
+- *Évaluation de la réforme des infirmiers diplômés d’État sur les dynamiques de carrière et la retraite : une approche par microsimulation*,  
+Christophe Dorin, Anthony Marino and Laurent Soulat,  
+Économie & prévision (n° 218, 2021)  
+[**Link**](https://www.cairn.info/revue-economique-2016-4-page-879.htm)
+
 ___
+
 
 - *Quelles options pour réduire la dépendance à la croissance du système de retraite français?*,  
 with Didier Blanchet and Antoine Bozio,  
