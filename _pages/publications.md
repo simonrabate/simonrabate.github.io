@@ -9,9 +9,25 @@ layout: archive
 ## Publications in international peer-reviewed journals
 
 
+- *Tax Evasion in the Netherlands: Evidence from Tax Amnesty Reforms*,  
+with Wouter Leenders, Arjan Lejour and Maarten van't Riet,  
+Forthcoming at the *Journal of Public Economics*
+
+   - [**Submitted version**](https://wouterleenders.eu/Leendersetal2022WP.pdf)
+    
+___
+- *The impact of import competition and export opportunities on the Dutch labour market*,  
+with  Rob Euwals, Gerrit Hugo van Heuvelen, Gerdien Meijerink and Jan Mohlmann,  
+*De Economist* (Volume 170-3, 2022)
+
+   - [**Link to the paper**](https://link.springer.com/article/10.1007/s10645-022-09409-5)
+    
+   - [**Link to the working paper**](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Discussion-Paper-426-Impact-of-import-competition-and-export-opportunities-Dutch-labour-market.pdf)
+    
+___
 - *The Child Penalty in the Netherlands and its Determinants*,  
 with Sara Rellstab,  
-*De Economist* (Volume 170, 2022)
+*De Economist* (Volume 170-2, 2022)
 
     - [**Link to the paper**](https://link.springer.com/article/10.1007/s10645-022-09403-x)
    
@@ -20,8 +36,6 @@ with Sara Rellstab,
 [//]: #  - [**Code**](https://framagit.org/simrab/mro)
 
  ___
-
-
 - *Can I Stay or Should I Go? Mandatory Retirement and Labor Force Participation of Older Workers*,  
   Journal of Public Economics (Volume 180, 2019)
 
@@ -31,12 +45,14 @@ with Sara Rellstab,
     
 [//]: #  - [**Code**](https://framagit.org/simrab/mro)
 
-
+___
 - *Employment and substitution effects of raising the statutory retirement age in France*,  
 with Julie Rochut,  
 Journal of Pension Economics and Finance (2019): 1-16.  
-[**Link**](https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/employment-and-substitution-effects-of-raising-the-statutory-retirement-age-in-france/4286104DFC75D283D1652996120C2B1C)
+    
+   - [**Link to the paper**](https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/employment-and-substitution-effects-of-raising-the-statutory-retirement-age-in-france/4286104DFC75D283D1652996120C2B1C)
 
+___
 
 ## Publications in French peer-reviewed journals
 
