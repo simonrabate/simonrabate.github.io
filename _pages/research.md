@@ -25,28 +25,8 @@ R&R at the *American Economic Journal: Economic Policy*
 
 ___
 
-- *Tax Evasion in the Netherlands: Evidence from Tax Amnesty Reforms*,  
-with Wouter Leenders, Arjan Lejour and Maarten van't Riet,  
-R&R at the *Journal of Public Economics*
-
-
-    - **Abstract**  
-        Exploiting unique datasets covering over 29,000 tax evaders in the Netherlands, we investigate the distribution of tax evasion and its implications for the measurement of wealth inequality. Tax evasion is concentrated at the top of the wealth distribution, though less so than in earlier research. Consequently, the correction for offshore wealth has only a modest effect on top wealth shares. We describe a number of explanations to account for the distribution of tax evasion by Dutch households: low-cost tax evasion opportunities in neighbouring countries for the “merely rich”, sophisticated forms of tax evasion for, low effective tax rates on wealth for and migration to low tax jurisdictions by the “super rich”. All of these explanations show that the distribution of tax evasion strongly depends on a country’s geographical and institutional setting.
-    - [**Submitted version**](https://www.dropbox.com/s/msg1z03hxbpa2mj/Leendersetal2021WP.pdf?dl=0)
-
-
-- *The impact of import competition and export opportunities on the Dutch labour market*,  
-with  Rob Euwals, Gerrit Hugo van Heuvelen, Gerdien Meijerink and Jan Mohlmann,  
-R&R at *De Economist*
-
-    - **Abstract**  
-We study the impact of rising Chinese and Eastern European import competition and export opportunities between 2001 and 2016 on the Dutch labour market. Both the participation of China in the WTO and the extension of the European Union provide an opportunity to investigate the impact of an unanticipated increase in trade on 40 Dutch COROP regions. We do not find a robust impact of the increase in trade on local employment, wages and inequality. The results do not imply that trade does not have an impact on Dutch regions, but the effects might play out in a more complicated way. Results for the Netherlands as well as other countries can be explained by the initial composition of the employment share across industries and the labour institutions.
-    - [Link to the working paper](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Discussion-Paper-426-Impact-of-import-competition-and-export-opportunities-Dutch-labour-market.pdf)
-___
-
 
 ## Working papers
-
 
 
 - *Labor Supply Effects of Survivor Insurance:  Evidence From a Benefit Cut in the Netherlands*,  
@@ -76,8 +56,6 @@ with Chloé Lallemand, Lamia Kandil and Maxime To
 with Antoine Bozio, Maxime Tô and Julie Treguier  
 
 - *The Social Determinants of Retirement*,  
-with Max Coveney and Arthur Seilbold
+with Arthur Seilbold
 
-- *Tax optimisation in closely held firms: evidence from a dividend tax holiday*,  
-with Gabriella Massenz
 
