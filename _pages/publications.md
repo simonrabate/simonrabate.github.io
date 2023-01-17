@@ -11,9 +11,11 @@ layout: archive
 
 - *Tax Evasion in the Netherlands: Evidence from Tax Amnesty Reforms*,  
 with Wouter Leenders, Arjan Lejour and Maarten van't Riet,  
-Forthcoming at the *Journal of Public Economics*
+*Journal of Public Economics* (Volume 217, 2023)
 
-   - [**Submitted version**](https://wouterleenders.eu/Leendersetal2022WP.pdf)
+   - [**Link to the paper**](https://www.sciencedirect.com/science/article/abs/pii/S0047272722001876)
+   
+   - [**Link to the working paper**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3723731)
     
 ___
 - *The impact of import competition and export opportunities on the Dutch labour market*,  
