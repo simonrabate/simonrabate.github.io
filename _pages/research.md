@@ -16,7 +16,7 @@ permalink: /research/
 
 - *Increasing the Effective Retirement Age: Key Factors and Interaction Effects*,  
 with Tilbe Atav and Egbert Jongen,  
-R&R at the *American Economic Journal: Economic Policy*
+R&R (conditionally accepted)  at the *American Economic Journal: Economic Policy*
 
 
     - **Abstract**  
