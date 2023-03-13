@@ -49,11 +49,8 @@ This paper combines detailed administrative records on the universe of the Dutch
 
 ## Early stage research
 
-- *Retirement behaviour in the French private sector*,  
-with Chloé Lallemand, Lamia Kandil and Maxime To
-
-- *Incentives and Labor Force Participation of Older Workers: Evidence from France*,  
-with Antoine Bozio, Maxime Tô and Julie Treguier  
+- *Differential Mortality and Redistribution in the French Pension System*,  
+with Aurel Mélard and Maxime Tô 
 
 - *The Social Determinants of Retirement*,  
 with Arthur Seilbold
