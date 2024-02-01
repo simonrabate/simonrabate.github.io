@@ -9,12 +9,22 @@ layout: archive
 ## Publications in international peer-reviewed journals
 
 
+- *Increasing the Effective Retirement Age: Key Factors and Interaction Effects*,  
+with Tilbe Atav and Egbert Jongen,  
+*American Economic Journal: Economic Policy* (Volume 16(1), 2024)
+
+    - **Abstract**  
+    We study the effects of the recent increase in the statutory retirement age (SRA) in the Netherlands, using RDD and rich administrative data on the universe of the Dutch population. We find large interaction effects with a preceding early retirement reform. The employment effect of the SRA reform is much larger for cohorts receiving less generous early retirement benefits. Indeed, the level of employment before the SRA, together with the retirement hazard at the SRA, is key to understanding the effects of retirement age reforms. Our results further point to a big role for automatic job termination in the Netherlands.
+
+   - [**Link to the paper**](https://www.aeaweb.org/articles?id=10.1257/pol.20210101)
+   - [**Link to the working paper**](https://www.dropbox.com/s/sdi78668wdsjgma/Atavetal2021WP.pdf?dl=0)
+      
+___
 - *Tax Evasion in the Netherlands: Evidence from Tax Amnesty Reforms*,  
 with Wouter Leenders, Arjan Lejour and Maarten van't Riet,  
 *Journal of Public Economics* (Volume 217, 2023)
 
    - [**Link to the paper**](https://www.sciencedirect.com/science/article/abs/pii/S0047272722001876)
-   
    - [**Link to the working paper**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3723731)
     
 ___
@@ -23,7 +33,6 @@ with  Rob Euwals, Gerrit Hugo van Heuvelen, Gerdien Meijerink and Jan Mohlmann,
 *De Economist* (Volume 170-3, 2022)
 
    - [**Link to the paper**](https://link.springer.com/article/10.1007/s10645-022-09409-5)
-    
    - [**Link to the working paper**](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Discussion-Paper-426-Impact-of-import-competition-and-export-opportunities-Dutch-labour-market.pdf)
     
 ___
@@ -32,7 +41,6 @@ with Sara Rellstab,
 *De Economist* (Volume 170-2, 2022)
 
     - [**Link to the paper**](https://link.springer.com/article/10.1007/s10645-022-09403-x)
-   
     - [**Link to the working paper**](https://www.cpb.nl/en/the-child-penalty-in-the-netherlands-and-its-determinants)
     
 [//]: #  - [**Code**](https://framagit.org/simrab/mro)
@@ -42,7 +50,6 @@ with Sara Rellstab,
   Journal of Public Economics (Volume 180, 2019)
 
     - [**Link to the paper**](https://www.sciencedirect.com/science/article/pii/S0047272719301392?dgcid=author)
-    
     - [**Link to the working paper**](https://halshs.archives-ouvertes.fr/halshs-01521150/document)
     
 [//]: #  - [**Code**](https://framagit.org/simrab/mro)
