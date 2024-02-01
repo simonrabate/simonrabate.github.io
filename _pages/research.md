@@ -14,14 +14,14 @@ permalink: /research/
 
 ## Under review
 
-- *Increasing the Effective Retirement Age: Key Factors and Interaction Effects*,  
-with Tilbe Atav and Egbert Jongen,  
-R&R (conditionally accepted)  at the *American Economic Journal: Economic Policy*
+- *Labor Supply Effects of Survivor Insurance:  Evidence From a Benefit Cut in the Netherlands*,  
+with Julie Treguier
+R&R at *Labour Economics*
 
 
     - **Abstract**  
-    We study the effects of the recent increase in the statutory retirement age (SRA) in the Netherlands, using RDD and rich administrative data on the universe of the Dutch population. We find large interaction effects with a preceding early retirement reform. The employment effect of the SRA reform is much larger for cohorts receiving less generous early retirement benefits. Indeed, the level of employment before the SRA, together with the retirement hazard at the SRA, is key to understanding the effects of retirement age reforms. Our results further point to a big role for automatic job termination in the Netherlands.
-    - [**Submitted version**](https://www.dropbox.com/s/sdi78668wdsjgma/Atavetal2021WP.pdf?dl=0)
+ This paper investigates the effects of survivors' benefits (SB) on labor supply responses. We use rich administrative data on the universe of Dutch residents, and exploit the 1996 Dutch reform that considerably tightened eligibility rules to  causally identify the labor supply effect of SB.We use a regression discontinuity approach, using the cohort-based implementation of the reform. We show that, following the tightening of SB eligibility, individual income and labor force participation after spousal death increase significantly (+23% and 16% respectively).  We further decompose those effects and show that the widows who entered the labor market due to the reform mainly did so in the care sector, and that already working widows increased their number of working hours by 8%. We also find evidence of active substitution of widows toward disability insurance as a result of the reform. Finally, our heterogeneity results suggest that the magnitude of the response to the reform depends on widows' ability to self-insure against the risk of spousal death.
+    - [Link to the working paper](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Discussion-Paper-437-Labor-Supply-Effects-of-Survivor-Insurance.pdf)
 
 ___
 
