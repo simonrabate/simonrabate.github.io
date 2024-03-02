@@ -15,8 +15,8 @@ permalink: /research/
 ## Under review
 
 - *Labor Supply Effects of Survivor Insurance:  Evidence From a Benefit Cut in the Netherlands*,  
-with Julie Treguier
-R&R at *Labour Economics*
+with Julie Treguier  
+Accepted for publication at *Labour Economics*
 
 
     - **Abstract**  
