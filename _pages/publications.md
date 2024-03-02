@@ -16,7 +16,8 @@ with Tilbe Atav and Egbert Jongen,
     - **Abstract**  
     We study the effects of the recent increase in the statutory retirement age (SRA) in the Netherlands, using RDD and rich administrative data on the universe of the Dutch population. We find large interaction effects with a preceding early retirement reform. The employment effect of the SRA reform is much larger for cohorts receiving less generous early retirement benefits. Indeed, the level of employment before the SRA, together with the retirement hazard at the SRA, is key to understanding the effects of retirement age reforms. Our results further point to a big role for automatic job termination in the Netherlands.
 
-   - [**Link to the paper**](https://www.aeaweb.org/articles?id=10.1257/pol.20210101)
+   - [**Link to the paper**](https://www.aeaweb.org/articles?id=10.1257/pol.20210101)0
+   - [**Link to the code**](https://www.openicpsr.org/openicpsr/project/185702/version/V1/view)
    - [**Link to the working paper**](https://www.dropbox.com/s/sdi78668wdsjgma/Atavetal2021WP.pdf?dl=0)
       
 ___
