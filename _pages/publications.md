@@ -12,9 +12,6 @@ layout: archive
 with Julie Treguier,  
 *Labour Economics* (Volume 88, 2024)
 
-    - **Abstract**  
- This paper investigates the effects of survivor benefits (SB) on the labour supply of widows. Using rich administrative data on the Dutch population and a reform that considerably restricted eligibility to SB, we identify the causal effect of SB on labour supply. Using a regression discontinuity design strategy based on the cohort-based implementation of the reform, we show that labour income after spousal death increased significantly following the reform (+110 euros, +23%). The effects are driven by changes in labour force participation and hours worked by widows. We also find evidence of program substitution, with widows relying more on disability, unemployment and welfare benefits as a result of the reform. This increase in alternative benefits further limits the reduction in total income caused by the reform by an average of 60 euros. Regarding the heterogeneity of the labour supply response, we find that widows with a relatively higher need for self-insurance increase their labour supply relatively more.
-
    - [**Link to the paper**](https://www.sciencedirect.com/science/article/pii/S092753712400023X?casa_token=Y8Ic7ANBBM8AAAAA:rr_q9qduLYmM8MTaCqAwnEze_Uba0XDGFqIP09OmJjzcpVaslffRZZPB__h7Q2OaIOEuCokEq7Q)
    - [**Link to the working paper**](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Discussion-Paper-437-Labor-Supply-Effects-of-Survivor-Insurance.pdf)
      
@@ -22,9 +19,6 @@ ___
 - *Increasing the Effective Retirement Age: Key Factors and Interaction Effects*,  
 with Tilbe Atav and Egbert Jongen,  
 *American Economic Journal: Economic Policy* (Volume 16(1), 2024)
-
-    - **Abstract**  
-    We study the effects of the recent increase in the statutory retirement age (SRA) in the Netherlands, using RDD and rich administrative data on the universe of the Dutch population. We find large interaction effects with a preceding early retirement reform. The employment effect of the SRA reform is much larger for cohorts receiving less generous early retirement benefits. Indeed, the level of employment before the SRA, together with the retirement hazard at the SRA, is key to understanding the effects of retirement age reforms. Our results further point to a big role for automatic job termination in the Netherlands.
 
    - [**Link to the paper**](https://www.aeaweb.org/articles?id=10.1257/pol.20210101)
    - [**Link to the code**](https://www.openicpsr.org/openicpsr/project/185702/version/V1/view)
