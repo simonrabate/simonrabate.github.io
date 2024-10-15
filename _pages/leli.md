@@ -6,9 +6,7 @@ layout: archive
 ---
 
 
-## ANR JCJC
-
-___
+# ANR JCJC research grant:      *Life Events and Lifetime Inequality*
 
 ## Summary of the project 
 The economic literature has extensively studied income inequality, yielding significant insights into its scale, evolution, and determinants. However, there's been relatively less focus on lifetime income inequality, which examines income disparities over individuals' lifetimes rather than at a single point in time. The LELI project research proposal seeks to investigate how lifetime inequality can be shaped by life-changing adverse events that affect individuals’ income trajectories and accumulates over individuals' life courses.
