@@ -6,198 +6,21 @@ layout: archive
 ---
 
 
-## Publications in international peer-reviewed journals
-
-- *Labour supply and survivor insurance in the Netherlands*,  
-with Julie Treguier,  
-*Labour Economics* (Volume 88, 2024)
-
-   - [**Link to the paper**](https://www.sciencedirect.com/science/article/pii/S092753712400023X?casa_token=Y8Ic7ANBBM8AAAAA:rr_q9qduLYmM8MTaCqAwnEze_Uba0XDGFqIP09OmJjzcpVaslffRZZPB__h7Q2OaIOEuCokEq7Q)
-   - [**Link to the working paper**](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Discussion-Paper-437-Labor-Supply-Effects-of-Survivor-Insurance.pdf)
-     
-___
-- *Increasing the Effective Retirement Age: Key Factors and Interaction Effects*,  
-with Tilbe Atav and Egbert Jongen,  
-*American Economic Journal: Economic Policy* (Volume 16(1), 2024)
-
-   - [**Link to the paper**](https://www.aeaweb.org/articles?id=10.1257/pol.20210101)
-   - [**Link to the code**](https://www.openicpsr.org/openicpsr/project/185702/version/V1/view)
-   - [**Link to the working paper**](https://www.dropbox.com/s/sdi78668wdsjgma/Atavetal2021WP.pdf?dl=0)
-      
-___
-- *Tax Evasion in the Netherlands: Evidence from Tax Amnesty Reforms*,  
-with Wouter Leenders, Arjan Lejour and Maarten van't Riet,  
-*Journal of Public Economics* (Volume 217, 2023)
-
-   - [**Link to the paper**](https://www.sciencedirect.com/science/article/abs/pii/S0047272722001876)
-   - [**Link to the working paper**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3723731)
-    
-___
-- *The impact of import competition and export opportunities on the Dutch labour market*,  
-with  Rob Euwals, Gerrit Hugo van Heuvelen, Gerdien Meijerink and Jan Mohlmann,  
-*De Economist* (Volume 170-3, 2022)
-
-   - [**Link to the paper**](https://link.springer.com/article/10.1007/s10645-022-09409-5)
-   - [**Link to the working paper**](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Discussion-Paper-426-Impact-of-import-competition-and-export-opportunities-Dutch-labour-market.pdf)
-    
-___
-- *The Child Penalty in the Netherlands and its Determinants*,  
-with Sara Rellstab,  
-*De Economist* (Volume 170-2, 2022)
-
-    - [**Link to the paper**](https://link.springer.com/article/10.1007/s10645-022-09403-x)
-    - [**Link to the working paper**](https://www.cpb.nl/en/the-child-penalty-in-the-netherlands-and-its-determinants)
-    
-[//]: #  - [**Code**](https://framagit.org/simrab/mro)
-
- ___
-- *Can I Stay or Should I Go? Mandatory Retirement and Labor Force Participation of Older Workers*,  
-  Journal of Public Economics (Volume 180, 2019)
-
-    - [**Link to the paper**](https://www.sciencedirect.com/science/article/pii/S0047272719301392?dgcid=author)
-    - [**Link to the working paper**](https://halshs.archives-ouvertes.fr/halshs-01521150/document)
-    
-[//]: #  - [**Code**](https://framagit.org/simrab/mro)
-
-___
-- *Employment and substitution effects of raising the statutory retirement age in France*,  
-with Julie Rochut,  
-Journal of Pension Economics and Finance (2019): 1-16.  
-    
-   - [**Link to the paper**](https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/employment-and-substitution-effects-of-raising-the-statutory-retirement-age-in-france/4286104DFC75D283D1652996120C2B1C)
+## ANR JCJC
 
 ___
 
-## Publications in French peer-reviewed journals
+## Summary of the project 
+The economic literature has extensively studied income inequality, yielding significant insights into its scale, evolution, and determinants. However, there's been relatively less focus on lifetime income inequality, which examines income disparities over individuals' lifetimes rather than at a single point in time. The LELI project research proposal seeks to investigate how lifetime inequality can be shaped by life-changing adverse events that affect individuals’ income trajectories and accumulates over individuals' life courses.
 
-- *Évaluation de la réforme des infirmiers diplômés d’État sur les dynamiques de carrière et la retraite : une approche par microsimulation*,  
-Christophe Dorin, Anthony Marino and Laurent Soulat,  
-Économie & prévision (n° 218, 2021)  
-[**Link**](https://www.cairn.info/revue-economique-2016-4-page-879.htm)
+The project combines rich longitudinal administrative data from France and the Netherlands with advanced econometric methods to answer four key questions: i) how do life events affect individuals’ income trajectories ? ii) what is the buffering role played by public policies, and in particular the tax-and-transfers system ? iii)  how do life events correlate and cumulate over the life-cycle and translate into lifetime inequality and iv) how do the consequences of life events differ between two different institutional contexts, namely those of France and the Netherlands.
 
-___
+Those research questions are tackled in three work packages (WP). 
 
+WP1, studies the effect of various life-events on income trajectories using Dutch data. WP1.1 aims to construct a large dataset of demographic, employment, or health related events. In WP1.2, we estimate the causal effect of events on income trajectories and assess how much individuals are protected against those events through family insurance and public insurance. We then focus on dimensions that have not yet been extensively studied in the literature, namely the role played by spousal alimony on the effect of divorce (WP1.3) and the effect of child health shock (WP1.4).
 
-- *Quelles options pour réduire la dépendance à la croissance du système de retraite français?*,  
-with Didier Blanchet and Antoine Bozio,  
-Revue économique 67.4 (2016): 879-911.  
-[**Link**](https://www.cairn.info/revue-economique-2016-4-page-879.htm)
+WP2 studies the correlations between different events and their implication for lifetime inequality. In WP2.1, we use the event dataset constructed in WP1 to describe the correlation of events over the life-cycle using sequence analysis. The correlation of events also has implications regarding lifetime inequality, as the repetition of adverse events over the life cycle is likely to generate divergent income trajectories between individuals. In WP2.2, we estimate a model of earning dynamics that incorporates the effect of correlated events. The model allows for counterfactual simulations of earning trajectories that help understanding the importance of events and correlation between them to explain features of lifetime income distribution and more broadly to understand the role of these shocks in terms of lifetime inequality. 
 
-___
+In WP3, we replicate some of the results obtained in the Dutch context (WP1 and WP2) in the context of France. We use as much as possible similar data and empirical strategies, to be able to draw conclusions on the importance of context regarding the incidence and effect of events. In WP3.1, we construct an event data for France, and compare it to the one constructed in WP1.1 to study the incidence of events, and their correlation over time. In WP3.2 we compare the effect of life events in both countries, focusing on how the differences in the tax-and-transfer systems lead to differences in the degree of insurance provided for each type of event. In WP3.3 we compare the difference in earnings profiles and associated lifetime inequality.
 
-- *Durée passée en carrière et durée de vie en retraite: quel partage des gains d’espérance de vie?*,  
-with Patrick Aubert  
-Economie et statistique 474.1 (2014): 69-95.  
-[**Link**](https://www.insee.fr/en/statistiques/1377631?sommaire=1377642)
-
-___
-
-## Other publications 
-
-### Books and reports 
-
-- *Workers' Employment Rates and Pension Reforms in France: The Role of Implicit Labor Taxation*,  
-with Didier Blanchet, Antoine Bozio and Muriel Roger  
-Social Security Programs and Retirement around the World: Reforms and Retirement Incentives, Börsch-Supan and Coile. (2019)
-[**Link**](https://www.nber.org/books-and-chapters/social-security-programs-and-retirement-around-world-reforms-and-retirement-incentives/workers-employment-rates-and-pension-reforms-france-role-implicit-labor-taxation)
-
-___
-
-- *Quelles règles de pilotage pour un système de retraite à rendement défini ?*,  
-with Antoine Bozio, Audrey Rain and Maxime Tô    
-Rapport IPP n°23 (2019)
-[**Link**](https://www.ipp.eu/wp-content/uploads/2019/06/regles-pilotage-retraite-points-ipp-juin-2019.pdf)
-
-___
-
-- *Les comportements de départs en retraite dans la fonction publique d’État*,  
-with Didier Blanchet and Antoine Bozio,  
-Rapport IPP n°9 (2015)
-[**Link**](https://www.ipp.eu/wp-content/uploads/2015/06/depart-retraite-fct-publique-etat-rapport-IPP-juin2015.pdf)
-
-___
-
-- *Réformer le système de retraite: les droits familiaux et conjugaux*,  
-with Carole Bonnet, Antoine Bozio and Camille Landais,  
-Rapport IPP n°2 (2013)
-[**Link**](https://www.ipp.eu/wp-content/uploads/2012/08/retraites-droits-conjugaux-familiaux-rapport-IPP-juin2013.pdf)
-
-___
-
-- *Arbeidsparticipatie, Gewerkte Uren En Economische Zelfstandigheid van Vrouwen*,  
-with Yvonne Adema, Simon Rabaté, Derk Visser, Marente Vlekke, and Kees Folmer,  
-CPB Notitie (2019)
-[**Link**](https://www.cpb.nl/sites/default/files/omnidownload/cpb-notitie-economische-zelfstandigheid-vrouwen_fin2.pdf)
-
-___
-
-- *Effecten verhogen minimumloon*,  
-with Céline van Essen,   
-CPB Notitie (2020)
-[**Link**](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Notitie-Effecten-verhogen-minimumloon.pdf)
-
-___
-
-
-### Scientific dissemination 
-
-
-- *Pension reform: Towards an overhaul of family rights?*,  
-with Carole Bonnet, Antoine Bozio, Camille Landais and Marianne Tenand  
-IPP Policy Brief n°8 (2013)
-[**Link**](http://www.ipp.eu/wp-content/uploads/2013/10/n8-IPP-policy-brief-october2013.pdf)
-
-___
-- *Quelle réforme du système de retraite ? Les grands enjeux*,  
-with Antoine Bozio, Audrey Rain and Maxime Tô    
-IPP Policy Brief n°31 (2018)
-[**Link**](https://www.ipp.eu/actualites/note-ipp-n31-quelle-reforme-du-systeme-de-retraite-les-grands-enjeux/)
-
-___
-
-- *Faut-il un âge de référence dans un système de retraite en points ?*,  
-with Antoine Bozio, Audrey Rain and Maxime Tô    
-IPP Policy Brief n°42 (2019)
-[**Link**](https://www.ipp.eu/wp-content/uploads/2019/06/n42-notesIPP-juin2019.pdf)
-
-___
-
-- *Quel pilotage pour un système de retraite en points ?*,  
-with Antoine Bozio, Audrey Rain and Maxime Tô    
-IPP Policy Brief n°43 (2019)
-[**Link**](https://www.ipp.eu/wp-content/uploads/2019/06/n43-notesIPP-juin2019.pdf)
-
-___
-
-- *Réforme des retraites : quels effets redistributifs attendus ?*,  
- Antoine Bozio, Chloé Lallemand, Audrey Rain and Maxime Tô  
-IPP Policy Brief n°44 (2019)
-[**Link**](https://www.ipp.eu/wp-content/uploads/2019/06/n44-notesIPP-juin2019.pdf)
-
-___
-
-- *Belastingontduiking en vermogensongelijkheid*,  
- Wouter Leenders, Arjan Lejour and Maarten van't Riet
-CPB Policy Brief (2020)
-[**Link**](https://www.cpb.nl/belastingontduiking-en-vermogensongelijkheid)
-
-___
-
-- *Inkomen moeders halveert bijna na komst kinderen*,  
- Yvonne Adema and Sara Rellstab
-ESB (2020)
-[**Link**](https://esb.nu/esb/20061616/inkomen-moeders-halveert-bijna-na-komst-kinderen)
-
-___
-
-- *IPP open source publication of tax and benefit schedules: Pensions*,  
-with Benjamin Belrhomari, Antoine Bozio, Sophie Cottet and Louise Paul-Delvaux.  
-April 2019 
-[**Link**](https://www.ipp.eu/baremes-ipp/regimes-de-retraites/)
-
-
-
-
-
-
-
+The LELI project is built to make significant contributions to understanding how adverse life events shape economic trajectories and income inequality. Through scientific dissemination efforts, including research papers, scientific events, and adherence to Open Science principles, the project aims to make significant scientific academic contributions with large outreach. Furthermore, by engaging policy-makers in conferences and disseminating results through policy papers and public discussions, the project seeks to have a tangible impact on policy-making and societal understanding of income dynamics and inequality.
