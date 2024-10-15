@@ -85,7 +85,7 @@ author:
   location         : "Villeurbanne"
   employer         :
   googlescholar    : "https://scholar.google.fr/citations?view_op=list_works&hl=fr&user=EaepaRUAAAAJ"
-  email            : "s.rabate@cpb.nl"
+  email            : "simon.rabate@ined.fr"
   uri              :
   bitbucket        :
   codepen          :
@@ -180,8 +180,7 @@ collections:
   leli:
     output: true
     permalink: /:collection/:path/
-        
-
+      
 
 # Defaults
 defaults:
