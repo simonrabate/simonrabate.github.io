@@ -177,6 +177,10 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  leli:
+    output: true
+    permalink: /:collection/:path/
+        
 
 
 # Defaults
