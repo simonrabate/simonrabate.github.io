@@ -1,7 +1,7 @@
 ---
-title: "Publications"
+title: "ANR LELI"
 output: pdf_document
-permalink: /publications/
+permalink: /leli/
 layout: archive
 ---
 
