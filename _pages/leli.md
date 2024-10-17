@@ -8,7 +8,17 @@ layout: archive
 
 ## *Life Events and Lifetime Inequality* (LELI)
 
+
+-------------
+
 ### ANR JCJC Research grant
+
+Principal Investigator of LELI research projet
+  - Timeframe of the project: 2025-2029
+  - Amount awarded: 294,448 euros
+  - Link to proposal: [Stage 1](http://simonrabate.github.io/files/LELI_JCJC2024_preproposal.pdf)  [Stage 2](http://simonrabate.github.io/files/LELI_JCJC2024_full_proposal.pdf)
+
+-------------
 
 ### Summary of the project 
 The economic literature has extensively studied income inequality, yielding significant insights into its scale, evolution, and determinants. However, there's been relatively less focus on lifetime income inequality, which examines income disparities over individuals' lifetimes rather than at a single point in time. The LELI project research proposal seeks to investigate how lifetime inequality can be shaped by life-changing adverse events that affect individuals’ income trajectories and accumulates over individuals' life courses.
@@ -24,8 +34,3 @@ WP2 studies the correlations between different events and their implication for 
 In WP3, we replicate some of the results obtained in the Dutch context (WP1 and WP2) in the context of France. We use as much as possible similar data and empirical strategies, to be able to draw conclusions on the importance of context regarding the incidence and effect of events. In WP3.1, we construct an event data for France, and compare it to the one constructed in WP1.1 to study the incidence of events, and their correlation over time. In WP3.2 we compare the effect of life events in both countries, focusing on how the differences in the tax-and-transfer systems lead to differences in the degree of insurance provided for each type of event. In WP3.3 we compare the difference in earnings profiles and associated lifetime inequality.
 
 The LELI project is built to make significant contributions to understanding how adverse life events shape economic trajectories and income inequality. Through scientific dissemination efforts, including research papers, scientific events, and adherence to Open Science principles, the project aims to make significant scientific academic contributions with large outreach. Furthermore, by engaging policy-makers in conferences and disseminating results through policy papers and public discussions, the project seeks to have a tangible impact on policy-making and societal understanding of income dynamics and inequality.
-
-### Proposal
-[Stage 1](http://simonrabate.github.io/files/LELI_JCJC2024_preproposal.pdf)  
-[Stage 2](http://simonrabate.github.io/files/LELI_JCJC2024_full_proposal.pdf)
-
