@@ -8,10 +8,15 @@ layout: archive
 
 ## Publications in international peer-reviewed journals
 
+- *Social security and retirement around the world: lessons from a long-term collaboration*,  
+with Courtney Coile *et al.*,  
+*Journal of Pension Economics & Finance* (2024)
+   - [**Link to the paper**](https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/social-security-and-retirement-around-the-world-lessons-from-a-longterm-collaboration/25E945FCC32DFAD47727D32B201D8412?utm_campaign=shareaholic&utm_medium=twitter&utm_source=socialnetwork)
+     
+___
 - *Labour supply and survivor insurance in the Netherlands*,  
 with Julie Treguier,  
 *Labour Economics* (Volume 88, 2024)
-
    - [**Link to the paper**](https://www.sciencedirect.com/science/article/pii/S092753712400023X?casa_token=Y8Ic7ANBBM8AAAAA:rr_q9qduLYmM8MTaCqAwnEze_Uba0XDGFqIP09OmJjzcpVaslffRZZPB__h7Q2OaIOEuCokEq7Q)
    - [**Link to the working paper**](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Discussion-Paper-437-Labor-Supply-Effects-of-Survivor-Insurance.pdf)
      
@@ -19,7 +24,6 @@ ___
 - *Increasing the Effective Retirement Age: Key Factors and Interaction Effects*,  
 with Tilbe Atav and Egbert Jongen,  
 *American Economic Journal: Economic Policy* (Volume 16(1), 2024)
-
    - [**Link to the paper**](https://www.aeaweb.org/articles?id=10.1257/pol.20210101)
    - [**Link to the code**](https://www.openicpsr.org/openicpsr/project/185702/version/V1/view)
    - [**Link to the working paper**](https://www.dropbox.com/s/sdi78668wdsjgma/Atavetal2021WP.pdf?dl=0)
@@ -28,7 +32,6 @@ ___
 - *Tax Evasion in the Netherlands: Evidence from Tax Amnesty Reforms*,  
 with Wouter Leenders, Arjan Lejour and Maarten van't Riet,  
 *Journal of Public Economics* (Volume 217, 2023)
-
    - [**Link to the paper**](https://www.sciencedirect.com/science/article/abs/pii/S0047272722001876)
    - [**Link to the working paper**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3723731)
     
@@ -36,7 +39,6 @@ ___
 - *The impact of import competition and export opportunities on the Dutch labour market*,  
 with  Rob Euwals, Gerrit Hugo van Heuvelen, Gerdien Meijerink and Jan Mohlmann,  
 *De Economist* (Volume 170-3, 2022)
-
    - [**Link to the paper**](https://link.springer.com/article/10.1007/s10645-022-09409-5)
    - [**Link to the working paper**](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Discussion-Paper-426-Impact-of-import-competition-and-export-opportunities-Dutch-labour-market.pdf)
     
@@ -44,7 +46,6 @@ ___
 - *The Child Penalty in the Netherlands and its Determinants*,  
 with Sara Rellstab,  
 *De Economist* (Volume 170-2, 2022)
-
     - [**Link to the paper**](https://link.springer.com/article/10.1007/s10645-022-09403-x)
     - [**Link to the working paper**](https://www.cpb.nl/en/the-child-penalty-in-the-netherlands-and-its-determinants)
     
@@ -53,7 +54,6 @@ with Sara Rellstab,
  ___
 - *Can I Stay or Should I Go? Mandatory Retirement and Labor Force Participation of Older Workers*,  
   Journal of Public Economics (Volume 180, 2019)
-
     - [**Link to the paper**](https://www.sciencedirect.com/science/article/pii/S0047272719301392?dgcid=author)
     - [**Link to the working paper**](https://halshs.archives-ouvertes.fr/halshs-01521150/document)
     
@@ -63,7 +63,6 @@ ___
 - *Employment and substitution effects of raising the statutory retirement age in France*,  
 with Julie Rochut,  
 Journal of Pension Economics and Finance (2019): 1-16.  
-    
    - [**Link to the paper**](https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/employment-and-substitution-effects-of-raising-the-statutory-retirement-age-in-france/4286104DFC75D283D1652996120C2B1C)
 
 ___
