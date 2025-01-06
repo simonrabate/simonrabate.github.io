@@ -16,7 +16,6 @@ author_profile: yes
 
 
 ### Fields of interest  
-
 - Public Economics
 - Labor Economics
 - Population Economics
