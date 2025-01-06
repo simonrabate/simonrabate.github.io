@@ -17,9 +17,9 @@ author_profile: yes
 
 ### Fields of interest  
 
-- Public Finance
+- Public Economics
 - Labor Economics
-- Pension systems
+- Population Economics
 
 
 ### Contact 
