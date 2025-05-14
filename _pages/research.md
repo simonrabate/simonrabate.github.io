@@ -31,13 +31,13 @@ with Aurel Mélard and Maxime Tô
     - **Abstract:** Differences in life expectancy between gender and income groups are large and generate significant implicit redistribution in lifetime earnings through pension systems. We use administrative data on the universe of private sector wage earners in France to quantify these effects. We establish two main results. In terms of between gender redistribution, we find that differential mortality – life expectancy at 55 is 5.7 years higher among women than among men – reduces lifetime income inequality between men and women: absent this differential in life expectancy, the pension gap between men and women would be 72% higher, in a lifetime perspective. Second, within gender, high income earners benefit from hidden lifetime redistribution due to higher life expectancy. We find a life expectancy gradient of 7.2 years between the extremes of the distribution among men, 1.8 years among women. Among men, this hidden redistribution more than offsets the overall progressivity of the pension system.
     - [Link to the working paper](https://ifs.org.uk/publications/hidden-redistribution-lifetime-earnings-role-differential-mortality)
 
-
-## Early stage research
-
-- *Gifts as Informal Insurance: Responses to Adverse Life Events*,  
-with Marion Leturcq and Mathis Sansu
-
-- *Household and Government Insurance to Adverse Life-Events*,   
+- *The Effect of Adverse Life-Events on Income Trajectories*,  
 with Julie Tréguier, Maxime Tô, Wiljan van der Berge and Willem van der Wal
+
+    - **Abstract:** This paper studies and compares the effect of different adverse life events – job loss, disability and health shocks, divorce and spousal death – on individuals’ income trajectories. We use an harmonized design across events in terms of methodology and data: matching difference-in-difference with exhaustive Dutch administrative registers. We assess the effect of adverse events on different margins. We compare their effect on primary and disposable household income in order to measure the public insurance to the shocks provided by the tax and transfer system. Both between different events and within different groups for a given event, we find that the importance of government insurance increases with the severity of the shock on primary income. However, we find that certain groups of the population are relatively less protected against adverse life events, such as young people facing a large health shock or secondary earners facing a divorce.
+    - [Link to the working paper](https://www.cpb.nl/sites/default/files/omnidownload/CPB-Discussion-Paper-Nr-460-The-Effect-Of-Adverse-Life-Events-On-Income-Trajectories.pdf)
+
+
+
 
 
